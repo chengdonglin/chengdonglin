@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: chengdong2518@163.com
 -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=linchengdongg&show_icons=true&theme=dark&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=linchengdong&show_icons=true&theme=dark&count_private=true)
